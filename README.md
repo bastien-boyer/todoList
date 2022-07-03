@@ -1,13 +1,14 @@
 # todoList
-todo list html + js
+HTML + javascript
 
-Concepts :
-
-dynamic element creation :
-  createElement
+### Concepts :<br>
+dynamic element creation :<br>
+* createElement
   
-add and delete child in node 
-  element.appendChild(child)
-  element.removeChild(child)
+  
+Add and delete child in node<br>
+* element.appendChild(child
+* element.removeChild(child)
+  
   
 eventListener("click", () => {});
