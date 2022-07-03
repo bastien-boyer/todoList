@@ -2,6 +2,7 @@
 todo list html + js
 
 Concepts :
+
 dynamic element creation :
   createElement
   
